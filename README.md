@@ -34,4 +34,4 @@ To ensure universal readability, code-quality and consistency; **Cartly** follow
 
 License
 =======
-**Cartly**, it's repositories are licenced under [**MIT license**](https://github.com/Cartly/Introduction/blob/master/LICENSE).
+**Cartly**, it's repositories are licenced under [**BSD 3-Clause**](https://github.com/Cartly/Introduction/blob/master/LICENSE).
